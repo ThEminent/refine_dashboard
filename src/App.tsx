@@ -40,7 +40,7 @@ function App() {
                   syncWithLocation: true,
                   warnWhenUnsavedChanges: true,
                   useNewQueryKeys: true,
-                  projectId: "WVyLEd-4karEq-tItoeC",
+                  projectId: "jTyLEd-4k2rEq-tHtaeP",
                   liveMode: "auto",
                 }}
               >
